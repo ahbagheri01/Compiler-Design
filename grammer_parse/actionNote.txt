@@ -1,0 +1,35 @@
+#push_type : pushing type of id into stack for future use
+#push_num : push constant number
+#push_id : push address of id
+#assign : pop two address assign tow each other
+#indirect_adr : sum with array address and calculate new address
+#push_op : push operand
+#operate : pop two and get tempory address and calculate and push address
+#label
+#jump_repeat
+#save_if
+#end_simple_if
+#save_if_else
+#end_if_else
+#compare_operate
+#push_compare_operand
+#fun_declare_init
+#fun_declare_end
+#set_offset_function
+#set_offset_function_arr
+#pop_exp
+#return_void
+#return_expresion
+
+#before_call
+#call
+#push_arg
+
+
+
+#declare_id :  declare id and push it
+#finish_var_declare : pop two object
+#end_array_declare : pop objext and number of required member and fill symbol table.
+#into_scope : declare new scope
+#outo_scope : delete last scope
+

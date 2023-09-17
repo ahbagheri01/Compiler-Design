@@ -1,0 +1,11 @@
+Program
+└── Declaration-list
+    └── Declaration
+        ├── Declaration-initial
+        │   └── Type-specifier
+        │       └── (KEYWORD, int)
+        ├── Declaration-prime
+        │   └── Fun-declaration-prime
+        │       └── (SYMBOL, ()
+        └── Declaration-list
+            └── epsilon

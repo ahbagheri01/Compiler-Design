@@ -1,0 +1,4 @@
+#2 : syntax error, illegal =
+#2 : syntax error, missing Declaration-prime
+#2 : syntax error, missing $
+#3 : syntax error, Unexpected EOF

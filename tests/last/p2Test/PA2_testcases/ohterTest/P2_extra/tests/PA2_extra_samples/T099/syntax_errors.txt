@@ -1,0 +1,2 @@
+#2 : syntax error, missing $
+#3 : syntax error, Unexpected EOF

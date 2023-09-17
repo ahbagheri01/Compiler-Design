@@ -1,0 +1,5 @@
+#7 : syntax error, missing ID
+#7 : syntax error, illegal *
+#8 : syntax error, missing Fun-declaration-prime
+#8 : syntax error, missing $
+#9 : syntax error, Unexpected EOF

@@ -1,0 +1,3 @@
+4.	(12d, Invalid number)
+5.	(123d, Invalid number)
+6.	(*/, Unmatched comment)

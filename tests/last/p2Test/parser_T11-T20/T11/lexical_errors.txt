@@ -1,0 +1,5 @@
+13.	(another_, Invalid input)
+20.	(yet_, Invalid input) (another_, Invalid input)
+27.	(=&, Invalid input) (12&, Invalid number)
+30.	(3s, Invalid number)
+40.	(last_, Invalid input) (but_, Invalid input) (not_, Invalid input)

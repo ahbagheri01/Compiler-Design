@@ -1,0 +1,2 @@
+#31 : syntax error, missing $
+#32 : syntax error, Unexpected EOF

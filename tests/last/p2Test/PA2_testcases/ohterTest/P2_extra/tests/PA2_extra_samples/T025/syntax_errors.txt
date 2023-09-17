@@ -1,0 +1,3 @@
+#1 : syntax error, missing Fun-declaration-prime
+#1 : syntax error, missing $
+#2 : syntax error, Unexpected EOF

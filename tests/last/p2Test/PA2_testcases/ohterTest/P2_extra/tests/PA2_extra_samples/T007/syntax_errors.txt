@@ -1,0 +1,12 @@
+#2 : syntax error, missing Params
+#7 : syntax error, illegal ;
+#7 : syntax error, illegal ID
+#7 : syntax error, illegal ;
+#7 : syntax error, illegal ID
+#7 : syntax error, illegal =
+#7 : syntax error, illegal ID
+#7 : syntax error, illegal -
+#7 : syntax error, illegal NUM
+#11 : syntax error, missing Else-stmt
+#12 : syntax error, missing Factor-prime
+#12 : syntax error, illegal )

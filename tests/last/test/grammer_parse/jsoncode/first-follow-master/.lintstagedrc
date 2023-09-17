@@ -1,0 +1,4 @@
+{
+  "*.js": "nrun lint",
+  "*.md": "nrun spellcheck",
+}
